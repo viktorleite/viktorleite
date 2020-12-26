@@ -1,5 +1,5 @@
-![Viktor Leite github stats](https://github.com/viktorleite/viktorleite.git)
-![Viktor Leite github stats](https://github.com/viktorleite/viktorleite.git&show_icons=true)
+![Viktor Leite github stats](https://github-readme-stats.vercel.app/api?username=viktorleite)
+
 
 <!--
 **viktorleite/viktorleite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
